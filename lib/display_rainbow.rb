@@ -8,4 +8,3 @@ def display_rainbow(colors)
   puts "The sixth color of the rainbow is I: #{[5]}"
   puts "The seventh color of the rainbow is V: #{[6]}"
 end
-display_rainbow(colors)
